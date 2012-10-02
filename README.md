@@ -2,4 +2,10 @@ Hex
 ===
 
 My first C++ project. 
-Developed as part of my second year in IT in France (IUT Paris Descartes - 75).
+Developed in 2008 as part of my second year in IT in France (IUT Paris Descartes - 75).
+
+Aim
+===
+
+http://en.wikipedia.org/wiki/Hex_%28board_game%29
+
