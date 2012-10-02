@@ -2,7 +2,7 @@ Hex
 ===
 
 My first C++ project. 
-Developed in 2008 as part of my second year in IT in France (IUT Paris Descartes - 75).
+Developed in January 2009 as part of my second year in IT in France (IUT Paris Descartes - 75).
 
 Aim
 ===
